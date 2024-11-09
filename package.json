@@ -52,6 +52,7 @@
   },
   "devDependencies": {
     "@astrojs/mdx": "^3.1.7",
+    "@changesets/cli": "^2.27.9",
     "@playwright/test": "^1.47.2",
     "astro": "^4.15.9",
     "astro-expressive-code": "^0.37.0",
